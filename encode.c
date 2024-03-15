@@ -1,4 +1,10 @@
-//encode.c
+/* -------------------------------- ENCODE.C --------------------------------*/
+/* Name : Sriharini k 
+ * Date : 12th Sept 2023
+ * Description : AdvC Project -Steganography
+ */
+
+
 #include <stdio.h>
 #include <string.h>
 #include "encode.h"
